@@ -1,11 +1,11 @@
-## 👋 Hi there 
+## Hi there 👋
 I'm a Junior Frontend Developer. Open to work.
 
 How to contact me:
 - Email: serobabin.danil@gmail.com
 - Telegram: https://t.me/dserobabin
 
-## :hammer_and_wrench: My tech stack
+## My tech stack
 
 <div>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
@@ -18,7 +18,7 @@ How to contact me:
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> 
 </div>
 
-## :fire: My Stats
+## My Stats
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Serobabin&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
