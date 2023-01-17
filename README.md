@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm a Junior Frontend Developer. Open to work.
 
-📫 How to reach me::
+📫 How to reach me:
 - Email: serobabin.danil@gmail.com
 - Telegram: https://t.me/dserobabin
 
